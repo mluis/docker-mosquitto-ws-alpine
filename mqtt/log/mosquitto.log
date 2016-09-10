@@ -1,0 +1,7 @@
+1473515048: mosquitto version 1.4.9 (build date 2016-09-10 13:35:45+0000) starting
+1473515048: Config loaded from /mqtt/config/mosquitto.conf.
+1473515048: Opening websockets listen socket on port 9001.
+1473515048: Opening ipv4 listen socket on port 1883.
+1473515048: Opening ipv6 listen socket on port 1883.
+1473515056: mosquitto version 1.4.9 terminating
+1473515064: mosquitto version 1.4.9 (build date 2016-09-10 13:35:45+0000) starting
